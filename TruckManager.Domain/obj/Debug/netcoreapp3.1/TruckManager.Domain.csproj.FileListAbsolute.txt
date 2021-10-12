@@ -1,0 +1,9 @@
+C:\Development\Dev\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.deps.json
+C:\Development\Dev\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.dll
+C:\Development\Dev\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.pdb
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.AssemblyInfoInputs.cache
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.AssemblyInfo.cs
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.dll
+C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.pdb
