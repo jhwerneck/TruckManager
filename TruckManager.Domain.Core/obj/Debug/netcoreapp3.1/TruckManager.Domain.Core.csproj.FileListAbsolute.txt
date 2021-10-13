@@ -10,3 +10,16 @@ C:\Development\Dev\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1
 C:\Development\Dev\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Development\Dev\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.dll
 C:\Development\Dev\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.pdb
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\bin\Debug\netcoreapp3.1\TruckManager.Domain.Core.deps.json
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\bin\Debug\netcoreapp3.1\TruckManager.Domain.Core.dll
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\bin\Debug\netcoreapp3.1\TruckManager.Domain.Core.pdb
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\bin\Debug\netcoreapp3.1\TruckManager.Domain.dll
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\bin\Debug\netcoreapp3.1\TruckManager.Domain.pdb
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.csproj.CopyComplete
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.dll
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain.Core\obj\Debug\netcoreapp3.1\TruckManager.Domain.Core.pdb

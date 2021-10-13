@@ -7,3 +7,12 @@ C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\Truc
 C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.csproj.CoreCompileInputs.cache
 C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.dll
 C:\Development\Dev\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.pdb
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.deps.json
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.dll
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\bin\Debug\netcoreapp3.1\TruckManager.Domain.pdb
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.dll
+C:\Users\Admin\Downloads\Volvo-Teste\TruckManager\TruckManager.Domain\obj\Debug\netcoreapp3.1\TruckManager.Domain.pdb

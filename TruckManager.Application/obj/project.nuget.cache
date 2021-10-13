@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RNLCvfrndA9NaxHIpZWXo1pFzdUXQ/DTDBTUmv3SlxYBxO5+dxueKyUoF0dJHJKmzpbkltS0/IC8EeyhKDq37w==",
+  "dgSpecHash": "z3L+6cHdcGMhKSZFS0M6edMJW9as9N15GHVkrefWdXqmd+7C2dKk1OaMR0rBCaOJIvW0NtFjWce3hCPifJP8xA==",
   "success": true,
-  "projectFilePath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JHGOMES\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\JHGOMES\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\JHGOMES\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
         "projectName": "TruckManager.Application",
-        "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
-        "packagesPath": "C:\\Users\\JHGOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JHGOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -33,14 +34,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
               },
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj"
               },
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
               }
             }
           }
@@ -75,27 +76,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj",
         "projectName": "TruckManager.Domain.Core",
-        "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\JHGOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JHGOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -108,8 +110,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
               }
             }
           }
@@ -138,27 +140,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj",
         "projectName": "TruckManager.Domain.Services",
-        "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj",
-        "packagesPath": "C:\\Users\\JHGOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Services\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\TruckManager.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JHGOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -171,11 +174,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
               },
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj"
               }
             }
           }
@@ -204,27 +207,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj",
         "projectName": "TruckManager.Domain",
-        "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj",
-        "packagesPath": "C:\\Users\\JHGOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\TruckManager.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JHGOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -263,27 +267,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Development\\Dev\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj": {
+    "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Dev\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj",
         "projectName": "TruckManager.Tests",
-        "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj",
-        "packagesPath": "C:\\Users\\JHGOMES\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Tests\\TruckManager.Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\JHGOMES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -296,11 +301,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Application\\TruckManager.Application.csproj"
               },
-              "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
-                "projectPath": "C:\\Development\\Dev\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
+              "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Downloads\\Volvo-Teste\\TruckManager\\TruckManager.Domain.Core\\TruckManager.Domain.Core.csproj"
               }
             }
           }
@@ -355,7 +360,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

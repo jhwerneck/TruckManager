@@ -8,7 +8,7 @@ using TruckManager.Application.Interfaces;
 
 namespace TruckManager.API.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class TruckController : Controller
     {
